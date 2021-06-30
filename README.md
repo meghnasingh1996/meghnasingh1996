@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meghna_Singh
-- 👀 I’m interested in Frontend development
+- 👀 I’m a Frontend developer
 - 💞️ I’m looking for better opportunities
 - 📫 How to reach me ..  email me at meghnasingh445@gmail.com
 
